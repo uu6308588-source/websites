@@ -1,4 +1,4 @@
-# User manual
+free# User manual
 
 [[toc]]
 
